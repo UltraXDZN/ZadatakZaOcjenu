@@ -1,0 +1,11 @@
+C:\Juraj Crljenko\ZadatakZaOcjenu\ZadatakZaOcjenu\bin\Debug\ZadatakZaOcjenu.exe.config
+C:\Juraj Crljenko\ZadatakZaOcjenu\ZadatakZaOcjenu\bin\Debug\ZadatakZaOcjenu.exe
+C:\Juraj Crljenko\ZadatakZaOcjenu\ZadatakZaOcjenu\bin\Debug\ZadatakZaOcjenu.pdb
+C:\Juraj Crljenko\ZadatakZaOcjenu\ZadatakZaOcjenu\obj\Debug\ZadatakZaOcjenu.csprojAssemblyReference.cache
+C:\Juraj Crljenko\ZadatakZaOcjenu\ZadatakZaOcjenu\obj\Debug\ZadatakZaOcjenu.Form1.resources
+C:\Juraj Crljenko\ZadatakZaOcjenu\ZadatakZaOcjenu\obj\Debug\ZadatakZaOcjenu.Form2.resources
+C:\Juraj Crljenko\ZadatakZaOcjenu\ZadatakZaOcjenu\obj\Debug\ZadatakZaOcjenu.Properties.Resources.resources
+C:\Juraj Crljenko\ZadatakZaOcjenu\ZadatakZaOcjenu\obj\Debug\ZadatakZaOcjenu.csproj.GenerateResource.cache
+C:\Juraj Crljenko\ZadatakZaOcjenu\ZadatakZaOcjenu\obj\Debug\ZadatakZaOcjenu.csproj.CoreCompileInputs.cache
+C:\Juraj Crljenko\ZadatakZaOcjenu\ZadatakZaOcjenu\obj\Debug\ZadatakZaOcjenu.exe
+C:\Juraj Crljenko\ZadatakZaOcjenu\ZadatakZaOcjenu\obj\Debug\ZadatakZaOcjenu.pdb
